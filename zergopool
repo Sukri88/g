@@ -64,7 +64,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "stratum+tcp://randomx.asia.mine.zergpool.com:4453",
+            "url": "randomx.asia.mine.zergpool.com:4453",
             "user": "DOGE=D6LwvBfkRFjUXH5gWj6AHsVhSp6WvihpKD",
             "pass": "x",
             "rig-id": null,
