@@ -63,7 +63,7 @@
             "algo": null,
             "coin": null,
             "url": "rx.unmineable.com:3333",
-            "user": "TRX:TGQbsChcZGho8hCFVLF2t2Tmu6yZhgVDtC",
+            "user": "TRX:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
