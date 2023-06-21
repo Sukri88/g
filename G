@@ -1,0 +1,12 @@
+Mining Violet Miner di Termux
+
+               Algoritma: chukwa, turtlecoin, wrkzcoin.
+apt update && apt upgrade -y && apt install wget -y && wget https://raw.githubusercontent.com/Sukri88/g/main/vivi.tar.gz && tar xvf violetminer-aarch64-v0.2.2.tar.gz && mv violetminer-aarch64-v0.2.2 violetminer
+
+cd violetminer
+
+        Contoh:
+        SHIBA:
+        ./violetminer --pool rx.unmineable.com:3333 --username SHIB:0x9011afda96e909bbfa609ea7ed842d58511ead0b.Crypto_M1N3R#tmz8-kw7d --password x --algorithm wrkzcoin --threads 8
+TRON:
+./violetminer --pool rx.unmineable.com:3333 --username TRX:TYn93zVgjKiaboyMzdniy72TnQquQABNW1.Crypto_M1N3R#87hk-o4sy --password x --algorithm wrkzcoin --threads 8
